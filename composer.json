@@ -1,0 +1,16 @@
+{
+    "name": "jc-it/yii2-signature-input",
+    "description": "Signature input widget",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Joey Claessen",
+            "email": "joey_claessen@hotmail.com"
+        }
+    ],
+    "require": {
+        "bower-asset/signature_pad" : "~1.5.3"
+    }
+}
