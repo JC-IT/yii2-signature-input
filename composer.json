@@ -11,6 +11,12 @@
         }
     ],
     "require": {
-        "bower-asset/signature_pad" : "~1.5.3"
+        "bower-asset/signature_pad" : "~1.5.3",
+        "yiisoft/yii2": "^2.0.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "JCIT\\" : ""
+        }
     }
 }
